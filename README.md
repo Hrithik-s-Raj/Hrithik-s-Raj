@@ -15,8 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hrithik-portfolio.web.app](https://hrithik-portfolio.web.app)
 
-- 💬 Ask me about **MERN Stack,Next.js ,Web-Application Penetration Testion**
-
+- 💬 Ask me about **MERN Stack,Next.js ,Web-Application Penetration Testing
 - 📫 How to reach me **rhrithik1dev@gmail.com**
 
 - 📄 Know about my experiences [https://firebasestorage.googleapis.com/v0/b/hrithik-portfolio.appspot.com/o/Hrithik.s.raj.pdf?alt=media&token=b42629af-0403-457c-8bb6-f15f4fc83b8f](https://firebasestorage.googleapis.com/v0/b/hrithik-portfolio.appspot.com/o/Hrithik.s.raj.pdf?alt=media&token=b42629af-0403-457c-8bb6-f15f4fc83b8f)
