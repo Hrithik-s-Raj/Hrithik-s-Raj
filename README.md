@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hrithik.s.Raj</h1>
-<h3 align="center">A passionate full Stack developer and Security Researcher from India</h3>
+<h3 align="center">A passionate Full Stack developer and Security Researcher from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrithik-s-raj&label=Profile%20views&color=0e75b6&style=flat" alt="hrithik-s-raj" /> </p>
 
