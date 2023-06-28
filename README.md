@@ -33,6 +33,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrithik-s-raj&show_icons=true&locale=en&layout=compact" alt="hrithik-s-raj" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrithik-s-raj&show_icons=true&locale=en" alt="hrithik-s-raj" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrithik-s-raj&" alt="hrithik-s-raj" /></p>
