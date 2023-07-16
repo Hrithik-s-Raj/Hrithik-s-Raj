@@ -10,7 +10,7 @@
 
 🌱 Forever a student, I actively explore emerging technologies and keep refining my skills. I am committed to staying updated with the latest trends and best practices in software development to provide cutting-edge solutions.
 
-🤝 Let's connect! Feel free to reach out for collaborations, exciting projects, or discussions on all things tech. Together, let's shape the future of the digital world!
+🤝 Let's connect! Feel free to reach out for collaborations, exciting projects, or discussions on all things tech.
 
 🌐 Portfolio: https://portfolio-next-iota-seven.vercel.app <br>
 📧 Email: rhrithik1dev@gmail.com <br>
