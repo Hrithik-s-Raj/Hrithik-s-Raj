@@ -12,6 +12,6 @@
 
 🤝 Let's connect! Feel free to reach out for collaborations, exciting projects, or discussions on all things tech. Together, let's shape the future of the digital world!
 
-🌐 Portfolio: https://portfolio-next-iota-seven.vercel.app
-📧 Email: rhrithik1dev@gmail.com
+🌐 Portfolio: https://portfolio-next-iota-seven.vercel.app <br>
+📧 Email: rhrithik1dev@gmail.com <br>
 📞 LinkedIn: https://www.linkedin.com/in/hrithik-s-raj-a87480185
